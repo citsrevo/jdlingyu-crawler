@@ -13,3 +13,6 @@
 
 通过搜索爬取特定内容是被网站禁止了，虽然可以弄，但是还是小心一点，毕竟别人做网站越不容易。网站的反爬措施应该是没有的。
 
+![image](https://github.com/citsrevo/jdlingyu-crawler/blob/master/1.png)
+![image](https://github.com/citsrevo/jdlingyu-crawler/blob/master/2.png)
+
