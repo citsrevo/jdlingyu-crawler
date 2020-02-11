@@ -16,8 +16,8 @@ import copy
 import re
 import os
 def login():
-    usr_name = '1158809950@qq.com'
-    usr_psw = 'lyf19950923'
+    usr_name = ''
+    usr_psw = ''
     
     Input_name = Driver.find_element_by_xpath('//*[@name="username"]')
     Input_name.clear()
